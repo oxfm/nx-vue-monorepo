@@ -1,1 +1,1 @@
-# nx-vue-monorepo
+# @oxfm/nx-vue-monorepo
